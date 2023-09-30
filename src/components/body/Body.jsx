@@ -25,7 +25,7 @@ function Body() {
                     <div className="leftside">
                         <h4>Fly away to your dream holiday</h4>
                         <p>Get inspired, compare and book flights with more flexibility</p>
-                        <button className='cardButton'>Search For a flight</button>
+                        <button className='cardButton'>Search For a flights</button>
                     </div>
                     <div className="rightside">
                         <img src={imgSrc1} alt="" />
