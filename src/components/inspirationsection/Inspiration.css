@@ -1,0 +1,22 @@
+.imagearea img{
+    width: 500px;
+    border-radius: 10px;
+}
+.imagesection{
+    position: relative;
+}
+.textarea{
+    position: absolute;
+    color: white;
+    bottom: 10px;
+    padding: 10px;
+}
+.textarea h3{
+    font-size: 20px;
+    font-weight: 600;
+}
+.textarea p{
+    font-weight: 400;
+    font-size: 15px;
+    color: rgb(234, 234, 234);
+}

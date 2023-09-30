@@ -1,0 +1,36 @@
+.navSection{
+    width: 100%;
+    color: white;
+    
+}
+.navBar{
+    /* margin: 0 13% ; */
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 15px; 
+}
+.navBar h3{
+    font-size: 27px;
+}
+.navbtn{
+    padding: 8px 10px;
+    margin-left: 8px;
+    border-radius: 5px;
+    border:none;
+    color: #003b95;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*   ------------*/

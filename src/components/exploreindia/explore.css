@@ -1,0 +1,21 @@
+.cards img{
+    border-radius: 8px;
+    width: 200px;
+    height: 144px;
+    margin-bottom: 10px;
+}
+.cards{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 200px;
+
+}
+.cards h4{
+    font-size: 15px;
+    font-weight: 600;
+}
+.cards p{
+    font-size: 15px;
+    color: gray;
+}

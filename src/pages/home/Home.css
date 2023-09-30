@@ -1,0 +1,64 @@
+img{
+    display: block;
+}
+.chatopadhyay{
+    padding: 0 13%;
+    background-color: #003b95;
+} 
+.test{
+    padding: 0 13%;
+}
+.horizontal{
+    /* margin: 0 13%; */
+    display: flex;
+    /* gap: 17px; */
+    justify-content: space-between;
+}
+.smallhorizontal{
+    display: flex;
+    overflow: hidden;
+    justify-content: space-between;
+}
+.inspirationright{
+    display: flex;
+    gap: 5px;
+}
+.inspirationsection{
+    display: flex;
+    justify-content: space-between;
+}
+.explore{
+    display: flex;
+    gap: 15px;
+    /* overflow: hidden; */
+    flex-wrap: wrap;
+}
+.dest-column{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.dest-row{
+    display: flex;
+    gap: 110px;
+}
+.footer-row{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-between; */
+    gap: 60px;
+    /* overflow: hidden; */
+    flex-wrap: wrap;
+}
+.footer-column{
+    display: flex;
+    flex-direction: column;
+    /* gap: 10px; */
+}
+.footerimages{
+    display: flex;
+    flex-direction: row;
+    margin-left: 200px;
+    align-items: center;
+    gap: 50px;
+}

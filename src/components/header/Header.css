@@ -1,0 +1,44 @@
+.headerSection{
+    width: 100%;
+    color: white;   
+    /* position: relative;  */
+}
+.header{
+    padding: 10px 0 50px 0;
+    /* margin: 0 15%; */
+}
+.headerlist{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.headItems{
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    padding: 10px;
+    gap: 10px;
+    cursor: pointer;
+}
+.headItems.active{
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 20px;
+}
+.headItems:hover{
+    background-color: rgba(240, 248, 255, 0.121);
+    border-radius: 20px;
+}
+.headercontent{
+    /* border: 1px solid red; */
+    margin-top: 90px;
+    margin-bottom: 20px;
+}
+.headercontent h2{
+    font-size: 50px;
+    font-weight: bold;
+    /* line-height: 0px; */
+}
+.headercontent p{
+    font-size: 25px;
+}

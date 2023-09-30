@@ -1,0 +1,17 @@
+.propertylist{
+    width: 100%;
+    padding: 20px 0 13px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #003b95;
+    color: white;
+    border-bottom: 1px solid white;
+}
+.propertylist p{
+    border: 1px solid rgb(255, 255, 255);
+    font-size: 13px;
+    font-weight: 300;
+    padding: 7px 5px 3px;
+
+}

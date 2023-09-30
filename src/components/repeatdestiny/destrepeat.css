@@ -1,0 +1,21 @@
+.destinationSection{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.bigdestiny img{
+    width: 550px;
+    border-radius: 10px;
+    height: 270px;
+}
+.bigdestiny{
+    position: relative;
+}
+.bigdestiny p{
+    font-size: 30px;
+    position: absolute;
+    color: white;
+    font-weight: 600;
+    /* border: 1px solid red; */
+    padding: 10px 0 0 8px;
+}

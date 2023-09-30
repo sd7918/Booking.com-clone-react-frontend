@@ -1,0 +1,19 @@
+.smallrepeatsec{
+    position: relative;
+    margin-top: 17px;
+    
+}
+.smallrepeatsec img{
+    width: 360px;
+    /* box-shadow: inset 0px 0px 30px 30px rgba(0, 0, 0); */
+    height: 250px;
+    border-radius: 5px;
+}
+.smallrepeatsec p{
+    position: absolute;
+    font-size: 27px;
+    color: white;
+    font-weight: 600;
+    padding: 10px 0 0 8px;
+}
+

@@ -1,0 +1,17 @@
+.destinations{
+    /* margin-top: 30px; */
+    /* border: 1px solid red; */
+    width: fit-content;
+    line-height: 20px;
+}
+.destinations p a{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    font-size: 14px;
+}
+.destinations span{
+    font-size: 12px;
+    color: rgb(104, 104, 104);
+    font-weight: 300;
+}

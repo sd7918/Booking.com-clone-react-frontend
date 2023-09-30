@@ -1,0 +1,14 @@
+.dest-heading{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    
+}
+.dest-heading h3{
+    font-size: 24px;
+    font-weight: 600;
+}
+.dest-heading p{
+    color: rgb(104, 104, 104);
+    /* font-size: 24px; */
+    /* font-weight: 600; */
+}

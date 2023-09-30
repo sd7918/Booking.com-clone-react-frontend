@@ -1,0 +1,22 @@
+.maindest{
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    margin-bottom: 30px;
+}
+.maindest p{
+    /* border: 1px solid red; */
+    padding: 13px 12px 9px;
+    border-radius: 25px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.maindest p:hover{
+    background: rgba(204, 204, 204, 0.361);
+}
+
+.maindest p.active{
+    border: 1px solid #005b79;
+    background: #88afbc44;
+    color: #005b79;
+}

@@ -1,0 +1,61 @@
+.bodySection{
+    /* margin: 0px 13%; */
+    margin-top: 70px;
+}
+.offerSection h3{
+    margin-top: 50px;
+    font-size: 30px;
+    margin-bottom: 5px;
+}
+.offerSection p{
+    font-size: 16px;
+    color: gray;
+}
+.cardSection{
+    margin-top: 15px;
+    display: flex;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+.carditems{
+    /* border: 1px solid red; */
+    width: 800px;
+    height: 170px;
+    display: flex;
+    overflow: hidden;
+    background-color: white;
+    box-shadow: 0px 2px 5px gray;
+    border-radius: 5px;
+    /* padding: 10px; */
+}
+.rightside img{
+    width: 220px;
+    height: 170px;
+}
+.leftside{
+    padding: 10px;
+    /* margin-top: 20px; */
+}
+.leftside h4{
+    margin-top: 15px;
+    font-size: 17px;
+    font-weight: 600;
+    padding-bottom: 8px;
+}
+.leftside p{
+    font-size: 15px;
+    line-height: 18px;
+    color: rgb(86, 86, 86);
+    padding-bottom: 10px;
+}
+.cardButton{
+    padding: 8px 10px;
+    background-color: #0654ca;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    font-weight: 600;
+    cursor: pointer;
+}
+/* ---------destination--------- */
+
